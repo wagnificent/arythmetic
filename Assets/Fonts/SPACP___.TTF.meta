@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d57b15ca9803d244a99f2a698340e21b
+timeCreated: 1504130895
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SpacePatrol
+  fontNames:
+  - SpacePatrol
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
